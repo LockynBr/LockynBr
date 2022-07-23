@@ -1,14 +1,11 @@
-### Olá! Eu sou o Lockyn, mas conhecido com Paulo Henrique.
+### Olá! Eu sou o Paulo Henrique, e estou cursando ADS!
 
-- 🔭 Atualmente estou estudando.
-- 🌱 Estudando HTML e CSS.
-- 📫 Contate-me no email: pauloluz566@gmail.com
-- ⚡ Nos tempos livres gosto de editar vídeos.
+##
 
 <div align="center">
   <a href="https://github.com/LockynBr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lockynbr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lockynbr&layout=compact&langs_count=7&theme=dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lockynbr&layout=compact&langs_count=7&theme=dark"/>
 </div>
 </div>
 <div style="display: inline_block"><br>
@@ -23,7 +20,7 @@
   <a href="https://www.youtube.com/channel/UCX77Cytme9lgLYgZiFbqxaA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/_paulo_henryy/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/lockynbr" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
-  <a href = "pauloluz566@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:pauloluz566@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paulo-henrique-276259233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
   
