@@ -11,6 +11,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Lock-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lock-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Lock-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lock-JAVA" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
   <img align="right" alt="Lock-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/817132421152505927/1000422502125801492/myamura.png">
