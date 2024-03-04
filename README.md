@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/LockynBr">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lockynbr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lockynbr&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lockynbr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lockynbr&layout=compact&langs_count=7&theme=dark"/>
 </div>
 </div>
 <div style="display: inline_block"><br>
@@ -15,7 +15,7 @@
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Lock-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lock-JAVA" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
-  <img align="right" alt="Lock-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/817132421152505927/1000422502125801492/myamura.png">
+  <img align="right" alt="Lock-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/817132421152505927/1214288059940732948/34fcd2bd86bfd479a7de9e18592e3cdd.jpg?ex=65f890e1&is=65e61be1&hm=3002da41035f9669f1e5244a7232bd656a38ce80f008321b3d973a98ffb68aef&=&format=webp">
 </div>
 
 ##
