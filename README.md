@@ -15,7 +15,7 @@
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Lock-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lock-JAVA" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
-  <img align="right" alt="Lock-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/817132421152505927/1214288059940732948/34fcd2bd86bfd479a7de9e18592e3cdd.jpg?ex=65f890e1&is=65e61be1&hm=3002da41035f9669f1e5244a7232bd656a38ce80f008321b3d973a98ffb68aef&=&format=webp">
+  <img align="right" alt="Lock-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/817132421152505927/1275555555192082554/34fcd2bd86bfd479a7de9e18592e3cdd.jpg?ex=66c6512f&is=66c4ffaf&hm=76afa8f6cd6c8423d14839527aff7758a5f1f29d93cf64f13e1709a83d2f32e7&=&format=webp">
 </div>
 
 ##
